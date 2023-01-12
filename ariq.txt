@@ -3,3 +3,5 @@ further more Python is very easy to learn.
 
 
 Therefore consider Python as your first languange to learn. One of it's reason is the syntax is easier to understand as the example code show above. As a result writing code is much more faster, cleaner and more readable code. Not only that Python have a huge collection of libraries, so you can create more interesting project later. And Python having a lot of libraries because of a masive and amazing community around the world.
+
+nambahin
