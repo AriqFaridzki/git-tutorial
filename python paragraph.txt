@@ -2,3 +2,9 @@ Python is a general purpose languange. it's a high level type languange that are
 
 Therefore consider Python as your first languange to learn. One of it's reason is the syntax is easier to understand as the example code show above. As a result writing code is much more faster, cleaner and more readable code. Not only that Python have a huge collection of libraries, so you can create more interesting project later. And Python having a lot of libraries because of a masive and amazing community around the world.
 
+Due to this amazing community, there's a lot of forums out there ready to help you. One of it's result many people contributing free courses about Python to the internet website, for example like codecademy, scrimba, freecodecamp and so much more. Therefore Python now is the forth most popular language in the world right now according to the PYPL index and Stack Overflow's Developer Survey 2022.
+
+Moreover jobs opportunities for Python developer is on demand. Because Python is being used by big companies like Facebook, Google, NASA, Amazon, Dropbox, etc. And the average salary for python developer is fairly high too. Also Python is a great skill for you, no matter you career is. Because everyone using python, from IoT, emmbeded devices, servers, etc.
+
+
+Lastly, python is open source. you can download at www.python.org
